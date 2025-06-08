@@ -61,9 +61,6 @@ Each visualization was created in a step-by-step Jupyter Notebook and saved as a
 
 ---
 
-## 📁 Project Structure
-
-<pre> ## 📁 Project Structure ``` EDA-Visualization-Project/ │ ├── data/ │ └── netflix_titles.csv │ ├── notebooks/ │ └── eda_netflix.ipynb │ ├── screenshots/ │ ├── Distribution of Content Types.png │ ├── Content Released Over the Years.png │ └── ... (other 8 images) │ ├── requirements.txt └── README.md ``` </pre>
 
 ## ✅ Learnings
 
