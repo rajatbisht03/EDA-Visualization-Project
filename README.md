@@ -63,19 +63,7 @@ Each visualization was created in a step-by-step Jupyter Notebook and saved as a
 
 ## 📁 Project Structure
 
-EDA-Visualization-Project/
-│
-├── data/
-│ └── netflix_titles.csv
-│
-├── notebooks/
-│ └── eda_netflix.ipynb
-│
-├── screenshots/
-│ └── [All 10 chart images]
-│
-├── requirements.txt
-└── README.md
+<pre> ## 📁 Project Structure ``` EDA-Visualization-Project/ │ ├── data/ │ └── netflix_titles.csv │ ├── notebooks/ │ └── eda_netflix.ipynb │ ├── screenshots/ │ ├── Distribution of Content Types.png │ ├── Content Released Over the Years.png │ ├── Top 10 Countries by Number of Titles.png │ ├── Top 10 Content Ratings on Netflix.png │ ├── Top 10 Most Common Genres.png │ ├── Distribution of Movie Durations.png │ ├── Top 10 Most Frequent Directors.png │ ├── Top 10 Most Frequent Cast Members.png │ ├── Heatmap of Release Year vs Content Rating.png │ └── Word Cloud of Most Frequent Words in Descriptions.png │ ├── requirements.txt └── README.md ``` </pre>
 
 ## ✅ Learnings
 
